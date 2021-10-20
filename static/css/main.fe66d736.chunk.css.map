@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,WAGC,eAAgB,CAEhB,iBACE,cAAe,CAEf,uBACE,gBAAiB","file":"main.fe66d736.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.todo-list {\n  list-style: none;\n\n  &__item {\n    background: red;\n\n    &--done {\n      background: green;\n    }\n  }\n}\n"]}
